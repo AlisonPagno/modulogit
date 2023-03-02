@@ -1,0 +1,38 @@
+[33mcommit 0a310fc0bbfb4571c9d251c9d183efe1ab4eafbb[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Alison Pagno <alisonpagno1998@gmail.com>
+Date:   Thu Mar 2 00:18:36 2023 +0000
+
+    Inclusão changelog.md
+
+ changelog.md | 11 [32m+++++++++++[m
+ 1 file changed, 11 insertions(+)
+
+[33mcommit b8aa8f56bc6aabccf3d91dcc87ada3cbd822f9e1[m
+Author: Alison Pagno <alisonpagno1998@gmail.com>
+Date:   Thu Mar 2 00:09:06 2023 +0000
+
+    colocando acentuação no arquivo 2.txt
+
+ arquivo2.txt | Bin [31m32[m -> [32m32[m bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+[33mcommit 246ceceb1a3d72bd7c79de7c2783ac77ebc539a3[m
+Author: Alison Pagno <alisonpagno1998@gmail.com>
+Date:   Thu Mar 2 00:08:00 2023 +0000
+
+    alterando o conteudo de arquivo2.txt
+
+ arquivo2.txt | Bin [31m28[m -> [32m32[m bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+[33mcommit e0a88adc668285ef79cc5a129ebb2d37ae2e71f8[m
+Author: Alison Pagno <alisonpagno1998@gmail.com>
+Date:   Thu Mar 2 00:00:52 2023 +0000
+
+    inclusão de novos arquivos
+    
+    inclusão dos arquivos: arquivo.txt e arquivo2.txt
+
+ arquivo.txt  | Bin [31m0[m -> [32m24[m bytes
+ arquivo2.txt | Bin [31m0[m -> [32m28[m bytes
+ 2 files changed, 0 insertions(+), 0 deletions(-)
